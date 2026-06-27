@@ -1,0 +1,10 @@
+# Ignore local data files
+data/
+*.xlsx
+*.csv
+
+# Ignore Python environment and cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
